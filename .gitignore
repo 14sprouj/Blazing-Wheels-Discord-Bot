@@ -1,0 +1,8 @@
+config.json
+node_modules
+.env
+._*
+.DS_Store
+.git
+.gitignore
+py.py
